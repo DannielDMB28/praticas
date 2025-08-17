@@ -1,0 +1,1 @@
+confirm('Comfirme sem vc tem 18 anos');
