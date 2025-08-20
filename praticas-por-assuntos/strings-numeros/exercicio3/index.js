@@ -1,3 +1,3 @@
 let nome = 'Daniel Moreira';
 
-console.log(nome.length);
+console.log(nome.toLowerCase());
